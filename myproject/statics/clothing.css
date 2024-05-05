@@ -1,0 +1,300 @@
+.ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 30px;
+    background-color: white;
+    width: 600px;
+    height: 10px;
+    margin-left: 100px;
+    position: relative;
+    bottom: 70px;
+}
+.div2{
+    background-color: white;
+    width: 100px;
+    height: 70px;
+    position:relative;
+    background-image: url('icon.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.ul1 a{
+    padding: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+.div3{
+    background-color: white;
+    width: 700px;
+    height: 70px;
+    position: relative;
+    left:760px;
+    bottom: 156px;
+    
+    
+}
+.ul2{
+    list-style-type: none;
+    padding-bottom: 50px;
+}
+.ul2 a{
+    padding: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    
+}
+.aicon{
+    position: relative;
+    left: 500px;
+    top: 25px;
+    
+}
+.sign{
+    position: relative;
+    left: 510px;
+    top: 25px;
+    
+}
+.div4{
+    background-color: rgba(128,128,128,0.5);
+    width: 700px;
+    height: 300px;
+    position: relative;
+    bottom: 192px;
+    background-image: url('mens.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: aqua;
+    background-blend-mode: darken;
+    background-blend-mode: multiply;
+    
+    
+    
+
+}
+.div4 p{
+    text-align: justify;
+    font-size: 40px;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    left: 500px;
+    top: 200px;
+    color: aliceblue;
+ 
+}
+.div4 a{
+    text-decoration: none;
+}
+.div5{
+    background-color: green;
+    width: 375px;
+    height: 300px;
+    position: relative;
+    left: 705px;
+    background-image: url('sport.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    bottom: 90px;
+}
+.div5 p{
+    color: white;
+    width: 100px;
+    height: 50px;
+    font-size: 40px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+    text-shadow: -1px 2px black;
+}
+.div6{
+    background-color: rgba(128,128,128,0.5);
+    width: 374px;
+    height: 300px;
+    position: relative;
+    left: 382px;
+    bottom:90px;
+    background-image: url('women.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-blend-mode: multiply;
+}
+.div6 p{
+    color: white;
+    width: 100px;
+    height: 50px;
+    font-size: 40px;
+    position: relative;
+    left: 30px;
+    top:  200px;
+}
+
+.div7{
+    background-color: blanchedalmond;
+    width: 375px;
+    height: 300px;
+    position: relative;
+    bottom: 227px;
+    background-image: url('suit.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+   
+}
+.div7 p{
+    font-size: 40px;
+    position: relative;
+    padding-left: 20px;
+    top: 50px;
+    color: white;
+    text-shadow: -1px 2px black;
+}
+.div7 a{
+    text-decoration: none;
+}
+
+.div8{
+    background-color: beige;
+    width: 375px;
+    height: 300px;
+    position: relative;
+    left: 380px;
+    bottom: 86px;
+    background-image: url('black.jpg');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+}
+.div8 p{
+     position: relative;
+     padding-top: 180px;
+     padding-left: 100px;
+     text-shadow: -1px 2px aqua;
+    
+
+}
+.div9{
+    background-color: gold;
+    width: 700px;
+    height: 300px;
+    position: relative;
+    left: 381px;
+    bottom:267px;
+    background-image: url('back1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: top;
+    
+    
+}
+.div9 p{
+    text-shadow: -1px 5px black;
+    position: relative;
+    padding-top: 5px;
+    right: 100px;
+    margin-top: 10px;
+}
+.divap{
+    position: relative;
+    font-size: 40px;
+    margin-left: 500px;
+}
+
+
+.div10{
+    background-color: cadetblue;
+    width: 1462px;
+    height: 500px;
+    position: relative;
+    bottom: 222px;
+    background-image: url('attachment.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(0,0, 0, 0.6);
+    background-blend-mode: lighten;
+    background-blend-mode:multiply;
+    padding-top: 100px;
+}
+.div10 p{
+    text-align: justify;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    color: white;
+}
+.circle{
+    width: 400px;
+    height: 400px;
+    background-color: #63916d33;
+    margin: auto ;
+    border-radius: 50%;
+    text-align:justify;
+    
+}
+.circla{
+    padding-left: 50px;
+    text-decoration: none;
+    color:coral;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: -1px 2px black;
+
+}
+.div11{
+    background-color: grey;
+    width: 1462px;
+    height: 400px;
+    position: relative;
+    bottom: 240px;
+    background-image: url('tehran.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -100px;
+
+}
+.div11 img{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    bottom: 413px;
+}
+.div11 h1{
+    padding-left: 450px;
+    font-size: 35px;
+    color: white;
+}
+.div11 P{
+    padding-left: 500px;
+    font-size: 30px;
+    position: relative;
+    bottom: 5px;
+    color: white;
+}
+.div11 h2{
+    padding-left: 450px;
+    font-size: 35px;
+    color: white;
+}
+.div11 h3{
+    padding-left: 450px;
+    font-size: 35px;
+    color: white;
+}
+.div12{
+    font-size: 100px;
+   text-align: center;
+   padding-right: 100px;
+   position: relative;
+   bottom: 100px;
+   border: 1px solid gray;
+   background-color: rgba(128,128,128,0.5);
+}
+.div12 a{
+    padding-left: 200px;
+    text-decoration: none;
+    color: black;
+}
